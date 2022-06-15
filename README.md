@@ -40,3 +40,9 @@
 </p>
 
 
+### :pencil: Blog
+
+<a target="_blank" href="https://www.bilalbaz.com/blog">
+  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@bilalbaz1/0" alt="Bilal Baz"> 
+
+
